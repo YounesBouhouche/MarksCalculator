@@ -38,3 +38,15 @@ This app is designed for Algerian students of all levels, from primary school to
 - Develop a companion website or web app for accessing calculations from any device
 
 Please note: This project is currently only available in Arabic. We plan to add support for other languages in the future.
+
+## Screenshots
+
+![Artboard 1]([http://url/to/img.png](https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%201.jpg)https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%201.jpg)
+
+![Artboard 2]([http://url/to/img.png](https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%201.jpg)https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%202.jpg)
+
+![Artboard 3]([http://url/to/img.png](https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%201.jpg)https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%203.jpg)
+
+![Artboard 4]([http://url/to/img.png](https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%201.jpg)https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%204.jpg)
+
+![Artboard 5]([http://url/to/img.png](https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%201.jpg)https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%205.jpg)
