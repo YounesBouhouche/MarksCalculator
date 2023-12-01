@@ -18,7 +18,8 @@ This app is designed for Algerian students of all levels, from primary school to
 ## Technologies Used
 
 - Android SDK
-- Java programming language
+- Kotlin programming language
+- Jetpack Compose
 
 ## Development Environment
 
