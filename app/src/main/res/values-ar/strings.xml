@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">حاسبة العلامات</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_calculation">CalculationActivity</string>
+
+    <string name="home">الرئيسية</string>
+    <string name="level">مستوى</string>
+
+    <string name="choose_level">اختر المستوى</string>
+    <string name="level_placeholder">اسم العملية الحسابية (فقط للتذكر)</string>
+    <string name="primary">ابتدائي</string>
+    <string name="middle">متوسط</string>
+    <string name="secondary">ثانوي</string>
+    <string name="first_year">السنة الأولى</string>
+    <string name="second_year">السنة الثانية</string>
+    <string name="third_year">السنة الثالثة</string>
+    <string name="fourth_year">السنة الرابعة</string>
+    <string name="fifth_year">السنة الخامسة</string>
+
+    <string name="scan">مسح</string>
+
+    <string name="settings">إعدادات</string>
+
+    <string name="theme">النمط</string>
+    <string name="app_theme">نمط التطبيق</string>
+    <string name="light_theme">النمط الفاتح</string>
+    <string name="dark_theme">نمط الداكن</string>
+    <string name="follow_system">اتباع النظام</string>
+    <string name="dynamic_theme">الألوان الديناميكية (Android 12+)</string>
+    <string name="dynamic_theme_desc">اتبع الألوان الديناميكية للنظام (متوفرة على نظام Android 12 والإصدارات الأحدث)</string>
+
+    <string name="general">عام</string>
+    <string name="language">لغة</string>
+
+    <string name="about">عن</string>
+
+    <string name="more">أكثر</string>
+    <string name="extra_dark_colors">ألوان داكنة للغاية</string>
+    <string name="extra_dark_description">مثالية لشاشات OLED</string>
+    <string name="dynamic_colors">الألوان الديناميكية (Android 12+)</string>
+    <string name="follow_system_dynamic_colors">اتبع الألوان الديناميكية للنظام (متوفرة على نظام التشغيل Android 12 والإصدارات الأحدث)</string>
+    <string name="color_palette">لوحة الألوان</string>
+    <string name="choose_colors_scheme">اختيار نظام الألوان</string>
+    <string name="group_chat_coming_soon">الدردشة الجماعية (قريبا)</string>
+    <string name="more_apps_coming_soon">المزيد من التطبيقات (قريبًا)</string>
+    <string name="younes_bouhouche">يونس بوحوش</string>
+    <string name="developer_description"><![CDATA[مطور الويب والهواتف المحمولة /مطور سطح المكتب /المصمم …]]></string>
+    <string name="choose_theme">اختيار نمط</string>
+    <string name="default_theme">تقصير</string>
+    <string name="system_default">النظام الافتراضي</string>
+    <string name="ok">نعم</string>
+    <string name="choose_color_theme">اختر نمط الالوان</string>
+    <string name="choose_app_theme">اختر نمط التطبيق</string>
+    <string name="search_by_name_level_or_mark">البحث بالاسم أو المستوى أو العلامة</string>
+    <string name="back">خلف</string>
+    <string name="save">حفظ</string>
+    <string name="exam">امتحان</string>
+    <string name="bem">شهادة التعليم المتوسط</string>
+    <string name="bachelor">شهادة التعليم الثانوي</string>
+    <string name="mathematics">رياضيات</string>
+    <string name="math_tech">تقني رياضي</string>
+    <string name="scientific">علمي</string>
+    <string name="management">تسيير واقتصاد</string>
+    <string name="foreign_languages">لغات اجنبية</string>
+    <string name="philosophy">فلسفة</string>
+    <string name="clear_list">تفريغ القائمة</string>
+    <string name="clear_list_message">هل تريد حقا مسح القائمة بأكملها؟  \nلا يمكن التراجع عن هذا الإجراء</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="qr_code_alert_description">1. افتح هذا التطبيق في الجهاز الآخر.
+         \n2. انقر فوق الزر \"مسح ضوئي\" (في الجزء السفلي الأيسر).
+         \n3. قم بمسح رمز الاستجابة السريعة هذا.</string>
+    <string name="rename">إعادة تسمية</string>
+    <string name="new_name">اسم جديد</string>
+    <string name="cancel">إلغاء</string>
+    <string name="literature">أدبي</string>
+    <string name="share">مشاركة</string>
+    <string name="all_saved_items_will_show_up_here">ستظهر جميع العناصر المحفوظة هنا</string>
+    <string name="untitled">بدون عنوان</string>
+    <string name="subject">موضوع</string>
+    <string name="art">فن</string>
+    <string name="tamazight">الأمازيغية</string>
+    <string name="sport">رياضة</string>
+    <string name="mark">علامة</string>
+    <string name="test">امتحان</string>
+    <string name="cont_ctrl">مر. مستمرة</string>
+    <string name="total_mark">مجموع العلامة</string>
+    <string name="final_mark">الدرجة النهائية</string>
+    <string name="total_factors">مجموع المعاملات</string>
+    <string name="math">الرياضيات</string>
+    <string name="french">فرنسي</string>
+    <string name="english">إنجليزي</string>
+    <string name="physics">الفيزياء</string>
+    <string name="sciences">علوم</string>
+    <string name="hist_geo">تاريخ.  جغرافيا</string>
+    <string name="islamic">اسلامية</string>
+    <string name="technology">تكنولوجيا</string>
+    <string name="informatic">معلوماتية</string>
+    <string name="economy">اقتصاد</string>
+    <string name="law">قانون</string>
+    <string name="_3rd_language">اللغة الثالثة</string>
+    <string name="arabic">عربي</string>
+    <string name="blue">أزرق</string>
+    <string name="green">أخضر</string>
+    <string name="red">أحمر</string>
+    <string name="orange">برتقالي</string>
+    <string name="purple">أرجواني</string>
+    <string name="spanish">إسباني</string>
+    <string name="italian">إيطالي</string>
+    <string name="hindi">هندي</string>
+    <string name="improve_translation">ساعدونا في ترجمة التطبيق !</string>
+    <string name="improve_translation_description">ستساعدنا ترجماتك في الوصول إلى جمهور عالمي وتحسين تطبيقنا.</string>
+    <string name="type_to_search">اكتب للبحث</string>
+    <string name="no_result">Pas de résultat</string>
+    <string name="title_first_string">حاسبة</string>
+    <string name="second_title_string">" العلامات"</string>
+    <string name="sorry_this_qr_code_is_invalid">عذرا، الـ QR Code غير صالح !</string>
+</resources>

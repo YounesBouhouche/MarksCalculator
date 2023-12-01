@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marks Calculator</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_calculation">CalculationActivity</string>
+
+    <string name="home">Principale</string>
+    <string name="level">Niveau</string>
+
+    <string name="choose_level">Choisir le niveau</string>
+    <string name="level_placeholder">Nom de la calculation (Juste pour souvenir)</string>
+    <string name="primary">Primaire</string>
+    <string name="middle">Moyenne</string>
+    <string name="secondary">Secondaire</string>
+    <string name="first_year">Première Année</string>
+    <string name="second_year">Deuxième Année</string>
+    <string name="third_year">Troisième Année</string>
+    <string name="fourth_year">Quatrième Année</string>
+    <string name="fifth_year">Cinquième Année</string>
+
+    <string name="scan">Scanner</string>
+
+    <string name="settings">Paramètres</string>
+
+    <string name="theme">Thème</string>
+    <string name="app_theme">Thème d\'application</string>
+    <string name="light_theme">Thème </string>
+    <string name="dark_theme">Thème sombre</string>
+    <string name="follow_system">Suiver le système</string>
+    <string name="dynamic_theme">Couleurs dynamique (Android 12+)</string>
+    <string name="dynamic_theme_desc">Suiver les couleurs dynamique système (disponible sur Android 12 et plus)</string>
+
+    <string name="general">Général</string>
+    <string name="language">Langue</string>
+
+    <string name="about">Â propos</string>
+
+    <string name="more">Plus</string>
+    <string name="extra_dark_colors">Couleur Extra Sombre</string>
+    <string name="extra_dark_description">"Parfait pour les écrans OLED "</string>
+    <string name="dynamic_colors">Couleurs dynamiques (Android 12+)</string>
+    <string name="follow_system_dynamic_colors">Suiver les couleurs de système (disponible sur android 12 et plus)</string>
+    <string name="color_palette">Pallet de couleurs</string>
+    <string name="choose_colors_scheme">Choisir le schema des couleurs</string>
+    <string name="group_chat_coming_soon">Group Chat (a venir)</string>
+    <string name="more_apps_coming_soon">Plus d\'applications (a venir)</string>
+    <string name="younes_bouhouche">Younes Bouhouche</string>
+    <string name="developer_description"><![CDATA[Dévelopeur Mobile & Web / Bureau / Designer …]]></string>
+    <string name="choose_theme">Choisir le thème</string>
+    <string name="system_default">Par défaut</string>
+    <string name="ok">OK</string>
+    <string name="choose_color_theme">Choisir le thème des couleurs</string>
+    <string name="choose_app_theme">"Choisir le thème d'application "</string>
+    <string name="search_by_name_level_or_mark">Rechercher par nom, niveau ou note</string>
+    <string name="back">Retour</string>
+    <string name="save">Sauvegrader</string>
+    <string name="exam">Examin</string>
+    <string name="bem">BEM</string>
+    <string name="bachelor">Bachaloriat</string>
+    <string name="mathematics">Mathelème</string>
+    <string name="math_tech">Math-Technique</string>
+    <string name="scientific">Scientifique</string>
+    <string name="management">Management</string>
+    <string name="foreign_languages">Langues Etrangères</string>
+    <string name="philosophy">Philosophie</string>
+    <string name="clear_list">Vider la liste</string>
+    <string name="clear_list_message">Voulez-vous vraiment vider la liste ? Cette action ne peut pas être défaite ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="qr_code_alert_description">
+        1. Ouvrir cette application dans l\'autre périphérique.
+        \n2. Clickquer sur le boutton \"Scanner\" (dans le bas-droit).
+        \n3. Scanner cette code QR.
+    </string>
+    <string name="rename">Renommer</string>
+    <string name="new_name">Nouveau Nom</string>
+    <string name="cancel">Annuler</string>
+    <string name="literature">Literature</string>
+    <string name="share">Partager</string>
+    <string name="all_saved_items_will_show_up_here">Tous les éléments sauvegardés sera être affichés ici</string>
+    <string name="untitled">Non-intitulé</string>
+    <string name="subject">Sujet</string>
+    <string name="art">Dessin</string>
+    <string name="tamazight">Tamazight</string>
+    <string name="sport">Sport</string>
+    <string name="mark">Note</string>
+    <string name="test">Teste</string>
+    <string name="cont_ctrl">"Ctrl. Cont. "</string>
+    <string name="total_mark">Note Totale</string>
+    <string name="final_mark">Note Finale</string>
+    <string name="total_factors">Total Factors</string>
+    <string name="arabic">Arabe</string>
+    <string name="math">Math</string>
+    <string name="french">Français</string>
+    <string name="english">Anglais</string>
+    <string name="physics">Physique</string>
+    <string name="sciences">Sciences</string>
+    <string name="hist_geo">Hist. Geo</string>
+    <string name="islamic">Islamique</string>
+    <string name="technology">Technologie</string>
+    <string name="informatic">Informatique</string>
+    <string name="economy">Economique</string>
+    <string name="law">Lois</string>
+    <string name="_3rd_language">3ême langue</string>
+    <string name="blue">Bleu</string>
+    <string name="green">Vert</string>
+    <string name="red">Rouge</string>
+    <string name="orange">Orange</string>
+    <string name="purple">Violet</string>
+    <string name="spanish">Espagnol</string>
+    <string name="italian">Italien</string>
+    <string name="hindi">Hindou</string>
+    <string name="improve_translation">Aidez-nous à traduire notre application !</string>
+    <string name="improve_translation_description">Vos traductions nous aideront à atteindre un public mondial et à améliorer notre application.</string>
+    <string name="type_to_search">Tapez pour rechercher</string>
+    <string name="no_result">لا نتائج</string>
+    <string name="title_first_string">Calculatrice</string>
+    <string name="second_title_string">" des notes"</string>
+    <string name="sorry_this_qr_code_is_invalid">Pardant, le code QR est invalide !</string>
+</resources>

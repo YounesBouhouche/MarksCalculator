@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Notenrechner</string>
+    <string name="title_activity_settings">EinstellungenAktivität</string>
+    <string name="title_activity_calculation">Berechnungsaktivität</string>
+
+    <string name="home">Heim</string>
+    <string name="level">Ebene</string>
+
+    <string name="choose_level">Wählen Sie Ebene</string>
+    <string name="level_placeholder">Berechnungsname (Nur zur Erinnerung)</string>
+    <string name="primary">Primär</string>
+    <string name="middle">Mitte</string>
+    <string name="secondary">Sekundär</string>
+    <string name="first_year">Erstes Jahr</string>
+    <string name="second_year">Zweites Jahr</string>
+    <string name="third_year">Drittes Jahr</string>
+    <string name="fourth_year">Viertes Jahr</string>
+    <string name="fifth_year">Fünfte Jahr</string>
+
+    <string name="scan">Scan</string>
+
+    <string name="settings">Einstellungen</string>
+
+    <string name="theme">Thema</string>
+    <string name="app_theme">App-Theme</string>
+    <string name="light_theme">Lichtthema</string>
+    <string name="dark_theme">Dunkles Thema</string>
+    <string name="follow_system">Folgen Sie dem System</string>
+    <string name="dynamic_theme">Dynamische Farben (Android 12+)</string>
+    <string name="dynamic_theme_desc">Den dynamischen Systemfarben folgen (verfügbar auf Android 12 und höher)</string>
+
+    <string name="general">Allgemein</string>
+    <string name="language">Sprache</string>
+
+    <string name="about">Um</string>
+
+    <string name="more">Mehr</string>
+    <string name="extra_dark_colors">Extra dunkle Farben</string>
+    <string name="extra_dark_description">Perfekt für OLED-Bildschirme</string>
+    <string name="dynamic_colors">Dynamische Farben (Android 12+)</string>
+    <string name="follow_system_dynamic_colors">Befolgen Sie die dynamischen Farben des Systems (verfügbar auf Android 12 und höher).</string>
+    <string name="color_palette">Farbpalette</string>
+    <string name="choose_colors_scheme">Wählen Sie ein Farbschema</string>
+    <string name="group_chat_coming_soon">Gruppenchat (bald verfügbar)</string>
+    <string name="more_apps_coming_soon">Weitere Apps (bald verfügbar)</string>
+    <string name="younes_bouhouche">Younes Bouhouche</string>
+    <string name="developer_description"><![CDATA[Mobile- und Web-Entwickler / Desktop-Entwickler / Designer …]]></string>
+    <string name="choose_theme">Thema wählen</string>
+    <string name="system_default">Systemfehler</string>
+    <string name="ok">OK</string>
+    <string name="choose_color_theme">Wählen Sie ein Farbthema</string>
+    <string name="choose_app_theme">Wählen Sie das App-Thema</string>
+    <string name="search_by_name_level_or_mark">Suchen Sie nach Name, Niveau oder Markierung</string>
+    <string name="back">Zurück</string>
+    <string name="save">Speichern</string>
+    <string name="exam">Prüfung</string>
+    <string name="bem">GUT</string>
+    <string name="bachelor">Bachelor</string>
+    <string name="mathematics">Mathematik</string>
+    <string name="math_tech">Mathe-Tech</string>
+    <string name="scientific">Wissenschaftlich</string>
+    <string name="management">Management</string>
+    <string name="foreign_languages">Fremdsprachen</string>
+    <string name="philosophy">Philosophie</string>
+    <string name="clear_list">Liste leeren</string>
+    <string name="clear_list_message">Möchten Sie wirklich die gesamte Liste löschen\? \nDiese Aktion kann nicht rückgängig gemacht werden</string>
+    <string name="yes">Ja</string>
+    <string name="no">NEIN</string>
+    <string name="qr_code_alert_description">1. Öffnen Sie diese App auf dem anderen Gerät.
+        \n2. Klicken Sie auf die Schaltfläche „Scannen“ (unten rechts).
+        \n3. Scannen Sie diesen QR-Code.</string>
+    <string name="rename">Umbenennen</string>
+    <string name="new_name">Neuer Name</string>
+    <string name="cancel">Stornieren</string>
+    <string name="literature">Literatur</string>
+    <string name="share">Aktie</string>
+    <string name="all_saved_items_will_show_up_here">Alle gespeicherten Elemente werden hier angezeigt</string>
+    <string name="untitled">Ohne Titel</string>
+    <string name="subject">Thema</string>
+    <string name="art">Kunst</string>
+    <string name="tamazight">Tamazight</string>
+    <string name="sport">Sport</string>
+    <string name="mark">Markieren</string>
+    <string name="test">Prüfen</string>
+    <string name="cont_ctrl">Fortsetzung Strg</string>
+    <string name="total_mark">Gesamtnote</string>
+    <string name="final_mark">Endnote</string>
+    <string name="total_factors">Gesamtfaktoren</string>
+    <string name="math">Mathematik</string>
+    <string name="french">Französisch</string>
+    <string name="english">Englisch</string>
+    <string name="physics">Physik</string>
+    <string name="sciences">Wissenschaften</string>
+    <string name="hist_geo">Hist. Geo</string>
+    <string name="islamic">islamisch</string>
+    <string name="technology">Technologie</string>
+    <string name="informatic">Information</string>
+    <string name="economy">Wirtschaft</string>
+    <string name="law">Gesetz</string>
+    <string name="_3rd_language">3. Sprache</string>
+    <string name="arabic">Arabisch</string>
+    <string name="blue">Blau</string>
+    <string name="green">Grün</string>
+    <string name="red">Rot</string>
+    <string name="orange">Orange</string>
+    <string name="purple">Lila</string>
+    <string name="spanish">Spanisch</string>
+    <string name="italian">Italienisch</string>
+    <string name="hindi">Hindi</string>
+    <string name="improve_translation">Helfen Sie uns, unsere App zu übersetzen!</string>
+    <string name="improve_translation_description">Ihre Übersetzungen werden uns helfen, ein globales Publikum zu erreichen und unsere App besser zu machen.</string>
+    <string name="type_to_search">Tippe um zu suchen</string>
+    <string name="no_result">Kein Ergebnis</string>
+    <string name="title_first_string">Markierungen</string>
+    <string name="second_title_string">\" Taschenrechner\"</string>
+    <string name="sorry_this_qr_code_is_invalid">Leider ist dieser QR-Code ungültig!</string>
+</resources>
