@@ -41,12 +41,8 @@ Please note: This project is currently only available in Arabic. We plan to add 
 
 ## Screenshots
 
-![Artboard 1](https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%201.jpg?raw=true)
-
-![Artboard 2](https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%202.jpg?raw=true)
-
-![Artboard 3](https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%203.jpg?raw=true)
-
-![Artboard 4](https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%204.jpg?raw=true)
-
-![Artboard 5](https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%205.jpg?raw=true)
+<img src="https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%201.jpg?raw=true" width="400">
+<img src="https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%202.jpg?raw=true" width="400">
+<img src="https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%203.jpg?raw=true" width="400">
+<img src="https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%204.jpg?raw=true" width="400">
+<img src="https://github.com/YounesBouhouche/MarksCalculator/blob/72adc311a8e889cc9f4782e7e540a34c7ab5a437/Design/Launching%20Post%20-%20Square/Artboard%205.jpg?raw=true" width="400">
